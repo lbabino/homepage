@@ -99,4 +99,7 @@ _Coming soon..._
 	h5{
 		font-size:1.1em;
 	}
+	ol{
+		list-style: decimal;
+	}
 </style>
