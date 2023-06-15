@@ -76,4 +76,28 @@ _Coming soon..._
 		color: white;
 		text-decoration: underline;
 	}
+	p{
+		margin-top: 2em;
+		margin-bottom: 2em;
+	}
+
+	h1,h2,h3,h4,h5,h6{
+		margin-top: 2em;
+		margin-bottom: 2em;
+	}
+	h1{
+		font-size:2.8em;
+	}
+	h2{
+		font-size:1.8em;
+	}
+	h3{
+		font-size:1.6em;
+	}
+	h4{
+		font-size:1.3em;
+	}
+	h5{
+		font-size:1.1em;
+	}
 </style>
