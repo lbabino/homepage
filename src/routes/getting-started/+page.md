@@ -13,11 +13,10 @@ ZeroTier es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 2. Inicie el programa
 
 ![](./Pasted%20image%2020230614000557.png)
-<br>
+
 3. Busque el ícono en la esquina del reloj, presione _botón derecho_ y seleccione "_Unirse a una nueva red_" 
 
 ![](./Pasted%20image%2020230614000749.png)
-<br>
 
 5. Ingrese el ID provisto por la _Administración_, y presione "_Unirse_"
 6. Debería ([troubleshooting?](#troubleshooting)) aparecer el siguiente cartel, acepte.
