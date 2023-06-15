@@ -37,7 +37,6 @@ Ante cualquier problema o consulta, referirse a la sección de [resolución de p
 2. etc...
 
 
-# Servicios
 <h1 id="services">Servicios</h1>
 
 ## [Jellyfin ](http://10.0.0.10:8096)🎞📽🍿
