@@ -20,7 +20,7 @@ ZeroTier es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 <br>
 
 5. Ingrese el ID provisto por la _Administración_, y presione "_Unirse_"
-6. Debería ([troubleshooting?](#Troubleshooting)) aparecer el siguiente cartel, acepte.
+6. Debería ([troubleshooting?](#troubleshooting)) aparecer el siguiente cartel, acepte.
 
 ![](./Pasted%20image%2020230614000929.png)
 <br>
@@ -28,7 +28,7 @@ ZeroTier es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 7. Luego de unirse a la red, informe a la _Administración_ (el ingreso de nuevos usuarios debe ser evaluado y aprobado manualmente por nuestros especialistas de ciberseguridad).
 8. Al recibir confirmación de parte de la _Administración_, ya se encuentra en posición de disfrutar de [nuestros servicios](#Servicios), ¡Felicitaciones!
 
-Ante cualquier problema o consulta, referirse a la sección de [resolución de problemas](#Troubleshooting) o comunicarse con la _Administración_.
+Ante cualquier problema o consulta, referirse a la sección de [resolución de problemas](#troubleshooting) o comunicarse con la _Administración_.
 
 
 
@@ -64,7 +64,7 @@ Jellyfin es Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius
 
 
 
-# Troubleshooting
+<h1 id="troubleshooting">Troubleshooting</h1>
 _Coming soon..._
 
 
