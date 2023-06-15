@@ -25,7 +25,7 @@ ZeroTier es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 <br>
 
 7. Luego de unirse a la red, informe a la _Administración_ (el ingreso de nuevos usuarios debe ser evaluado y aprobado manualmente por nuestros especialistas de ciberseguridad).
-8. Al recibir confirmación de parte de la _Administración_, ya se encuentra en posición de disfrutar de [nuestros servicios](#Servicios), ¡Felicitaciones!
+8. Al recibir confirmación de parte de la _Administración_, ya se encuentra en posición de disfrutar de [nuestros servicios](#services), ¡Felicitaciones!
 
 Ante cualquier problema o consulta, referirse a la sección de [resolución de problemas](#troubleshooting) o comunicarse con la _Administración_.
 
@@ -38,6 +38,7 @@ Ante cualquier problema o consulta, referirse a la sección de [resolución de p
 
 
 # Servicios
+<h1 id="services">Servicios</h1>
 
 ## [Jellyfin ](http://10.0.0.10:8096)🎞📽🍿
 
