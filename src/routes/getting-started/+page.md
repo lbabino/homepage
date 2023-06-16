@@ -10,7 +10,7 @@ Nuestra motivación es tomar el control de **nuestros datos** y servicios en el 
 
 Para poder conectarnos a la red privada de NuestroServer, necesitamos instalar y configurar [ZeroTier](https://www.zerotier.com/) en nuestro dispositivo
 
-ZeroTier es una aplicación disponible en la mayoría de las plataformas que nos permite crear redes privadas y seguras a través de internet con el objetivo de compartir recursos y servicios con otros usuarios sin la necesidad de exponernos a redes públicas. Para más información, dirigirse a la [web oficial de ZeroTier](https://www.zerotier.com/)
+ZeroTier es una aplicación disponible en la mayoría de las plataformas que nos permite crear redes privadas y seguras a través de internet para compartir recursos y servicios con otros usuarios sin la necesidad de exponernos a redes públicas. Para más información, dirigirse a la [web oficial de ZeroTier](https://www.zerotier.com/)
 
 ### Windows
 1. [Descargue](https://www.zerotier.com/download/)
@@ -26,7 +26,7 @@ ZeroTier es una aplicación disponible en la mayoría de las plataformas que nos
 6. Debería ([troubleshooting?](#troubleshooting)) aparecer el siguiente cartel, acepte.
 
 ![](./Pasted%20image%2020230614000929.png)
-<br>
+
 
 7. Luego de unirse a la red, informe a la _Administración_ (el ingreso de nuevos usuarios debe ser evaluado y aprobado manualmente por nuestros especialistas de ciberseguridad).
 8. Al recibir confirmación de parte de la _Administración_, ya se encuentra en posición de disfrutar de [nuestros servicios](#services), ¡Felicitaciones!
@@ -50,10 +50,10 @@ Ante cualquier problema o consulta, referirse a la sección de [resolución de p
 
 ## [Jellyfin ](http://10.0.0.10:8096)🎞📽🍿
 
-Jellyfin es un servicio de streaming de contenido multimedia, similar a Netflix, con la diferencia de que el contenido es provisto por la _Administración_ y la comunidad, no por un tercero. Esto nos permite tener un control total sobre el contenido y la calidad del mismo, manteniendo la privacidad de nuestros usuarios.
+Jellyfin es un servicio de streaming de contenido multimedia, similar a Netflix, con la diferencia de que el contenido es provisto por la _Administración_ y la comunidad, no por un tercero. Esto nos permite tener un control total sobre el contenido y la calidad del mismo, manteniendo también la privacidad de nuestros usuarios.
 
 ### Inicio de sesión
-Si es tu primer ingreso, se deberá solicitar la creación de un usuario a la administración. Se te asignará una contraseña ar bitraria que luego podrás modificar por una de tu preferencia.
+Si es tu primer ingreso, se deberá solicitar la creación de un usuario a la administración. Se te asignará una contraseña arbitraria que luego podrás modificar por una de tu preferencia.
 
 ### Selección de idioma
 
